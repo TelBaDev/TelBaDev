@@ -17,7 +17,7 @@
 </div>
 
 ###
-
+<h4 align="center">Skills</h4>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
   <img width="12" />
