@@ -61,8 +61,13 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hakimbekdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hakimbekdev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hakimbekdevv&show_icons=true&locale=en&layout=compact" alt="hakimbekdevv" /></p>
+###
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakimbekdevv&show_icons=true&locale=en" alt="hakimbekdevv" /></p>
+<br clear="both">
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakimbekdevv&" alt="hakimbekdevv" /></p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hakimbekdevv/count.svg?"  />
+</div>
+
+###
