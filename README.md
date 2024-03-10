@@ -17,7 +17,7 @@
 </div>
 
 ###
-<h6 align="left">Skills</h6>
+<h2 align="left">Skills</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
   <img width="12" />
@@ -38,6 +38,7 @@
 
 ###
 
+<h2 align="left">Connections</h2>
 <div align="left">
   <a href="https://www.instagram.com/hakimbekdev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
