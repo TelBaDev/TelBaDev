@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hakimbek</h1>
 <h3 align="center">A passionate frontend developer from Bukhara in Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakimbekdevv&label=Profile%20views&color=0e75b6&style=flat" alt="hakimbekdevv" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hakimbekdevv" alt="hakimbekdevv" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/hakimbekdev" target="blank"><img src="https://img.shields.io/twitter/follow/hakimbekdev?logo=twitter&style=for-the-badge" alt="hakimbekdev" /></a> </p>
-
 - 🔭 I’m currently working on **CheckDavomat**
 
 - 🌱 I’m currently learning **BloC Architecture**
@@ -19,15 +13,50 @@
 
 - ⚡ Fun fact **I think I'm introvert**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hakimbekdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hakimbekdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hakimbekdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hakimbekdev" height="30" width="40" /></a>
-<a href="https://instagram.com/hakimbekdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hakimbekdev" height="30" width="40" /></a>
-</p>
+<div align="center">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="30" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/hakimbekdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hakimbekdev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://t.me/hakimbek_flutter" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
+  </a>
+  <a href="https://twitter.com/hakimbekdev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="hakimbekdeveloper@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/hakimbekdev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/hakimbekdev" /></a></p><br><br>
