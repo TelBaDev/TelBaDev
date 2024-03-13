@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CheckDavomat**
 
-- 🌱 I’m currently learning **BloC Architecture**
+- 🌱 I’m currently learning **Flutter**
 
 - 📝 I regularly write articles on [https://t.me/hakimbekdev](https://t.me/hakimbekdev)
 
