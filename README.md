@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hakimbek</h1>
 <h3 align="center">A junior Flutter Mobile Developer from Bukhara in Uzbekistan</h3>
 
-- 🔭 I’m currently working on **CheckDavomat**
+- 🔭 I’m currently working on **Social Media App and Kelajak LC**
 
 - 🌱 I’m currently learning **Flutter**
 
