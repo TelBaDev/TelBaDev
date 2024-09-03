@@ -3,15 +3,12 @@
 
 - 🔭 I’m currently working on **Bilimdon**
 
-- 🌱 I’m currently learning **Flutter**
-
 - 📝 I regularly write articles on [https://t.me/hakimbekdev](https://t.me/hakimbekdev)
 
 - 📫 How to reach me **hakimbekdeveloper@gmail.com**
 
 - 📄 Know about my experiences [https://t.me/hakimbekdev/773](https://t.me/hakimbekdev/773)
 
-- ⚡ Fun fact **I think I'm introvert**
 
 <div align="center">
 </div>
